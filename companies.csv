@@ -1,1 +1,51 @@
-
+company_id,company_name,industry,annual_revenue,num_employees,country
+1,Phillips-Garrett,Healthcare,87969676.99,1684,Jersey
+2,Murphy-Stewart,EdTech,39883912.84,476,United States of America
+3,"Garcia, Gonzales and Hernandez",SaaS,57848632.71,295,Namibia
+4,"Harding, Johnson and Randall",Healthcare,91968947.72,1339,Georgia
+5,"Small, Luna and Bonilla",Fintech,9013750.11,1901,Cuba
+6,Sellers-Monroe,E-commerce,30817516.14,1159,Kiribati
+7,Reilly and Sons,EdTech,76329849.11,1318,Trinidad and Tobago
+8,Yoder Group,Healthcare,58549688.43,849,Saint Vincent and the Grenadines
+9,Blair LLC,SaaS,88910046.99,1359,Jordan
+10,"Harris, Fitzpatrick and Lawrence",EdTech,58207752.57,1792,Hong Kong
+11,Green PLC,Healthcare,90503930.48,1444,Mexico
+12,Castro and Sons,SaaS,14365789.86,1162,Cayman Islands
+13,Kelly-Mckee,E-commerce,83032049.44,48,Czech Republic
+14,Alvarez-Duffy,E-commerce,68682561.56,398,Croatia
+15,Chavez PLC,EdTech,73591637.73,1328,Micronesia
+16,Lamb and Sons,SaaS,76223496.52,921,Paraguay
+17,"Wright, Garza and Acosta",Healthcare,23148884.75,1543,Saint Pierre and Miquelon
+18,Oliver and Sons,EdTech,54460066.22,1834,Cape Verde
+19,"Williams, Bush and Massey",E-commerce,16940665.75,400,Afghanistan
+20,Scott-Bartlett,EdTech,40104226.9,227,Jersey
+21,Hicks-Dixon,Healthcare,23108602.45,647,Yemen
+22,Lara-Peters,Fintech,95143105.32,1070,Bahrain
+23,"Coffey, Jennings and Davenport",SaaS,75327616.92,610,Philippines
+24,Phillips LLC,E-commerce,87736678.07,1763,Pitcairn Islands
+25,Mata Ltd,SaaS,85107250.07,1104,Ecuador
+26,Nixon Inc,EdTech,1473108.78,703,Korea
+27,Arias Ltd,E-commerce,73675871.71,563,Jersey
+28,Harris-Levy,SaaS,37139777.38,1498,Djibouti
+29,"Chang, Schmidt and Burnett",E-commerce,29209191.84,10,Guinea
+30,Porter Group,SaaS,42979793.11,1231,Indonesia
+31,Melendez-Johnson,E-commerce,27494136.74,431,Isle of Man
+32,Sanchez-Gould,Healthcare,20195652.31,1108,Bermuda
+33,Fleming LLC,Fintech,43033424.43,213,Mauritania
+34,"Alvarez, Myers and Cruz",Healthcare,59947430.2,1804,Andorra
+35,Carlson-Henry,Fintech,56183706.02,256,Gabon
+36,King-Davis,Healthcare,29661433.15,1892,Angola
+37,Howell Ltd,SaaS,52559511.36,238,Luxembourg
+38,Buck Group,Fintech,40901316.92,1131,Sao Tome and Principe
+39,Lindsey Inc,E-commerce,90038223.5,638,Greenland
+40,James-Banks,EdTech,63635086.14,1483,Kyrgyz Republic
+41,"Hughes, Jackson and Mills",EdTech,93848650.78,1206,Morocco
+42,"Lee, Foster and Ross",E-commerce,32859262.72,1809,Zimbabwe
+43,"Duncan, Fischer and Ramsey",EdTech,30078507.17,1405,Argentina
+44,Bennett and Sons,E-commerce,98610379.29,21,United States Virgin Islands
+45,Perez LLC,SaaS,69842234.12,398,Gibraltar
+46,Mason and Sons,Healthcare,10737020.62,578,Greece
+47,Moreno PLC,EdTech,52006800.94,906,Yemen
+48,Henderson LLC,SaaS,68349131.81,1904,Iraq
+49,"Mckee, Mathews and Rodriguez",SaaS,51462232.04,1115,Christmas Island
+50,"Mcmillan, Benson and Parsons",E-commerce,65968864.53,699,Dominica
