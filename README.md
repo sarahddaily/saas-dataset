@@ -27,3 +27,26 @@ Deals are associated with both Contacts and Companies.
 Tickets are linked to Contacts (and optionally Deals).
 
 Engagements are tied to Contacts and Deals.
+
+🚀 Getting Started
+1. Clone the Repository
+
+'git clone https://github.com/YOUR-USERNAME/hubspot-fake-data.git
+cd hubspot-fake-data'
+
+2. Install Dependencies
+
+'pip install -r requirements.txt'
+
+3. Run the Script
+
+'python generate_fake_hubspot_data.py'
+
+4. Output
+
+Generated CSV files will appear in the project root.
+
+⚠️ Disclaimer
+
+This dataset is entirely fake and generated for educational and testing purposes only.
+It is not connected to HubSpot and does not contain any real customer data.
